@@ -7,7 +7,7 @@
 
 // Hardcoded test values
 const startA3: number = 5;
-let endA3: number = 15; // must be greater than start
+const endA3: number = 15; // must be greater than start
 
 let outputA3: string = "";
 
